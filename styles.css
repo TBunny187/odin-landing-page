@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+
+}
+
+div {
+    margin: 0;
+    padding: 0 50px;
+    border: 0;
+    height: 400px;
+    background-color: #00006f;
+}
+
+div.header {
+    background-color: #00006f;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+div.logo {
+    font-size: 25px;
+    color: white;
+}
+
+div.link-one {
+    margin-left: auto;
+}
+
+a {
+    color: red;
+}
+
+a:hover {
+    color: white;
+}
