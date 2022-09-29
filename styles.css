@@ -8,11 +8,11 @@ div {
     padding: 0 50px;
     border: 0;
     height: 400px;
-    background-color: #00006f;
+    background-color: #1F2937;
 }
 
-div.header {
-    background-color: #00006f;
+div.header, div.footer {
+    background-color: #1F2937;
     height: 100px;
     display: flex;
     justify-content: space-between;
